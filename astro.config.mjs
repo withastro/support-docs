@@ -1,27 +1,33 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import remarkGithub from 'remark-github';
 
 // https://astro.build/config
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'Support Docs',
+      customCss: ['./src/utils/custom.css'],
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/withastro/support-docs',
 			},
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Start Here',
 					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', link: '/guides/example/' },
+						{ label: 'About Support', link: '/' },
 					],
 				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
-				},
+        {
+          label: 'Resources',
+          autogenerate: { directory: 'resources' }
+        }
 			],
 		}),
 	],
+  markdown: {
+    remarkPlugins: [
+      [remarkGithub, { repository: 'withastro/astro' }]
+    ]
+  }
 });
