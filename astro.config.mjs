@@ -7,9 +7,12 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Support Docs',
-      customCss: ['./src/utils/custom.css'],
+			customCss: ['./src/utils/custom.css'],
 			social: {
 				github: 'https://github.com/withastro/support-docs',
+			},
+			editLink: {
+				baseUrl: 'https://github.com/withastro/support-docs/edit/main/'
 			},
 			sidebar: [
 				{
@@ -18,16 +21,16 @@ export default defineConfig({
 						{ label: 'About Support', link: '/' },
 					],
 				},
-        {
-          label: 'Resources',
-          autogenerate: { directory: 'resources' }
-        }
+				{
+					label: 'Resources',
+					autogenerate: { directory: 'resources' }
+				}
 			],
 		}),
 	],
-  markdown: {
-    remarkPlugins: [
-      [remarkGithub, { repository: 'withastro/astro' }]
-    ]
-  }
+	markdown: {
+		remarkPlugins: [
+			[remarkGithub, { repository: 'withastro/astro' }]
+		]
+	}
 });
