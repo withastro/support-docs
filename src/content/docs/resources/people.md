@@ -12,7 +12,6 @@ This reference can be used by support squad to find further assistance with a sp
 | Compiler                   | @MoustaphaDev                   |
 | Container API              | @ematipico, @matthewp           |
 | Content Collections        | @bholmesdev                     |
-| Content Collection Caching | @matthewp                       |
 | DB                         | @matthewp, @bholmesdev, @Fryuni |
 | Dev Toolbar                | @Princesseuh                    |
 | Editor Tooling             | @Princesseuh                    |
@@ -25,7 +24,6 @@ This reference can be used by support squad to find further assistance with a sp
 | Redirects                  | @ematipico, @matthewp           |
 | Rewrites                   | @ematipico                      |
 | Starlight                  | @delucis, @HiDeoo               |
-| Studio                     | @itsMapleLeaf, @FredKSchott     |
 | View Transitions           | @martrapp                       |
 
 | Adapter    | Owner             |
