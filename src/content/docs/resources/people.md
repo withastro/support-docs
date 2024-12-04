@@ -8,10 +8,10 @@ This reference can be used by support squad to find further assistance with a sp
 | Feature                    | Owner                           |
 | -------------------------- | ------------------------------- |
 | Actions                    | @bholmesdev, @florian-lefebvre  |
-| Assets                     | @Princesseuh                    |
+| Assets                     | @Princesseuh, @ascorbic         |
 | Compiler                   | @MoustaphaDev                   |
 | Container API              | @ematipico, @matthewp           |
-| Content Collections        | @bholmesdev                     |
+| Content Collections        | @ascorbic                       |
 | DB                         | @matthewp, @bholmesdev, @Fryuni |
 | Dev Toolbar                | @Princesseuh                    |
 | Editor Tooling             | @Princesseuh                    |
@@ -23,6 +23,7 @@ This reference can be used by support squad to find further assistance with a sp
 | Prefetch                   | @bluwy                          |
 | Redirects                  | @ematipico, @matthewp           |
 | Rewrites                   | @ematipico                      |
+| Server Islands             | @matthewp                       |
 | Starlight                  | @delucis, @HiDeoo               |
 | View Transitions           | @martrapp                       |
 
@@ -30,8 +31,8 @@ This reference can be used by support squad to find further assistance with a sp
 | ---------- | ----------------- |
 | Cloudflare | @alexanderniebuhr |
 | Netlify    | @ascorbic         |
-| Node       |                   |
-| Vercel     |                   |
+| Node       | @matthewp         |
+| Vercel     | @matthewp         |
 
 ## Silent mentions
 
