@@ -9,10 +9,15 @@ This is an alphabetical list of all public support patrol members.
 
 If you're a current member of support patrol, you can [submit a PR](https://github.com/withastro/support-docs) to to add yourself to the list.
 
-| Name         | Discord            | GitHub        |
-| ------------ | ------------------ | ------------- |
-| Louis Escher | `@louisescher.dev` | @louisescher  |
-| Reuben Tier  | `@otterlord.dev`   | @theotterlord |
+| Name            | Discord            | GitHub          |
+| --------------- | ------------------ | --------------- |
+| Adam Matthiesen | `@matthiesen.dev`  | @adammatthiesen |
+| Paul Valladares | `@dreyfus.`        | @dreyfus92      |
+| Ginger          | `@gingerchew`      | @gingerchew     |
+| Louis Escher    | `@louisescher.dev` | @louisescher    |
+| Lukas Trombach  | `@lukets4328`      | @Trombach       |
+| Matthew Justice | `@arknoodle`       | @justiceMatthew |
+| Reuben Tier     | `@otterlord.dev`   | @theotterlord   |
 
 ## Feature Experts
 
