@@ -22,6 +22,10 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'Guides',
+					autogenerate: { directory: 'guides' }
+				},
+				{
 					label: 'Resources',
 					autogenerate: { directory: 'resources' }
 				}
