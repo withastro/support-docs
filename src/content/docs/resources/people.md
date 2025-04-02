@@ -18,6 +18,7 @@ If you're a current member of support patrol, you can [submit a PR](https://gith
 | Lukas Trombach  | `@lukets4328`      | @Trombach       |
 | Matthew Justice | `@arknoodle`       | @justiceMatthew |
 | Reuben Tier     | `@otterlord.dev`   | @theotterlord   |
+| Marijn Kneppers | `@mandat1jn`       | @mandar1jn      |
 
 ## Feature Experts
 
