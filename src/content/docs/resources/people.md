@@ -12,11 +12,12 @@ If you're a current member of support patrol, you can [submit a PR](https://gith
 | Name            | Discord            | GitHub          |
 | --------------- | ------------------ | --------------- |
 | Adam Matthiesen | `@matthiesen.dev`  | @adammatthiesen |
-| Paul Valladares | `@dreyfus.`        | @dreyfus92      |
 | Ginger          | `@gingerchew`      | @gingerchew     |
 | Louis Escher    | `@louisescher.dev` | @louisescher    |
 | Lukas Trombach  | `@lukets4328`      | @Trombach       |
+| Marijn Kneppers | `@mandat1jn`       | @mandar1jn      |
 | Matthew Justice | `@arknoodle`       | @justiceMatthew |
+| Paul Valladares | `@dreyfus.`        | @dreyfus92      |
 | Reuben Tier     | `@otterlord.dev`   | @theotterlord   |
 
 ## Feature Experts
