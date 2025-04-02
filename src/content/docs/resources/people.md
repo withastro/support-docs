@@ -15,8 +15,8 @@ If you're a current member of support patrol, you can [submit a PR](https://gith
 | Ginger          | `@gingerchew`      | @gingerchew     |
 | Louis Escher    | `@louisescher.dev` | @louisescher    |
 | Lukas Trombach  | `@lukets4328`      | @Trombach       |
-| Matthew Justice | `@arknoodle`       | @justiceMatthew |
 | Marijn Kneppers | `@mandat1jn`       | @mandar1jn      |
+| Matthew Justice | `@arknoodle`       | @justiceMatthew |
 | Paul Valladares | `@dreyfus.`        | @dreyfus92      |
 | Reuben Tier     | `@otterlord.dev`   | @theotterlord   |
 
