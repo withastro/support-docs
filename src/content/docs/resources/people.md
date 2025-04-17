@@ -12,6 +12,7 @@ If you're a current member of support patrol, you can [submit a PR](https://gith
 | Name            | Discord            | GitHub          |
 | --------------- | ------------------ | --------------- |
 | Adam Matthiesen | `@matthiesen.dev`  | @adammatthiesen |
+| Felix Schneider | `@trueberryless`   | @trueberryless  |
 | Ginger          | `@gingerchew`      | @gingerchew     |
 | Louis Escher    | `@louisescher.dev` | @louisescher    |
 | Lukas Trombach  | `@lukets4328`      | @Trombach       |
@@ -24,26 +25,26 @@ If you're a current member of support patrol, you can [submit a PR](https://gith
 
 This reference can be used by support squad to find further assistance with a specific feature if you need help to resolve an issue. This is especially helpful when dealing with unexpected behaviour or are unable to pinpoint a possible bug.
 
-| Feature               | Owner                           |
-| --------------------- | ------------------------------- |
-| Actions               | @bholmesdev, @florian-lefebvre  |
-| Assets                | @Princesseuh, @ascorbic         |
-| Compiler              | @MoustaphaDev                   |
-| Container API         | @ematipico, @matthewp           |
-| Content Collections   | @ascorbic                       |
-| DB                    | @matthewp, @bholmesdev, @Fryuni |
-| Dev Toolbar           | @Princesseuh                    |
-| Editor Tooling        | @Princesseuh                    |
-| Environment Variables | @florian-lefebvre               |
-| i18n Routing          | @ematipico                      |
-| Integrations API      | @florian-lefebvre, @Fryuni      |
-| Middleware            | @ematipico                      |
-| Partials              | @matthewp                       |
-| Redirects             | @ematipico, @matthewp           |
-| Rewrites              | @ematipico                      |
-| Server Islands        | @matthewp                       |
-| Starlight             | @delucis, @HiDeoo               |
-| View Transitions      | @martrapp                       |
+| Feature               | Owner                             |
+| --------------------- | --------------------------------- |
+| Actions               | @bholmesdev, @florian-lefebvre    |
+| Assets                | @Princesseuh, @ascorbic           |
+| Compiler              | @MoustaphaDev                     |
+| Container API         | @ematipico, @matthewp             |
+| Content Collections   | @ascorbic                         |
+| DB                    | @matthewp, @bholmesdev, @Fryuni   |
+| Dev Toolbar           | @Princesseuh                      |
+| Editor Tooling        | @Princesseuh                      |
+| Environment Variables | @florian-lefebvre                 |
+| i18n Routing          | @ematipico                        |
+| Integrations API      | @florian-lefebvre, @Fryuni        |
+| Middleware            | @ematipico                        |
+| Partials              | @matthewp                         |
+| Redirects             | @ematipico, @matthewp             |
+| Rewrites              | @ematipico                        |
+| Server Islands        | @matthewp                         |
+| Starlight             | @delucis, @HiDeoo, @trueberryless |
+| View Transitions      | @martrapp                         |
 
 | Adapter    | Owner             |
 | ---------- | ----------------- |
