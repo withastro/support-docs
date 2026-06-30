@@ -19,9 +19,9 @@ To nominate someone, post a message in the `#support-squad` channel nominating t
 
 Once someone has been nominated for the `@support-patrol` role, anyone can vote for the person using a positive emoji reaction on the nomination message like `+1` or 👍.
 
-If you do not agree with a nomination or don't know anything about the nominee, it is best to absatin from voting. If the vote passes the nominee will be able to the channel history.
+If you do not agree with a nomination or don't know anything about the nominee, it is best to abstain from voting. If the vote passes, the nominee will be able to view the channel history.
 
-If the nomination message recieves more than 3 positive reactions after 24-48 hours than it is considered a passing vote.
+If the nomination message receives more than 3 positive reactions after 24-48 hours then it is considered a passing vote.
 
 ## Inviting
 
