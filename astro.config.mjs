@@ -1,16 +1,22 @@
 import { defineConfig } from 'astro/config';
+import { satteri } from '@astrojs/markdown-satteri';
 import starlight from '@astrojs/starlight';
-import remarkGithub from 'remark-github';
+import { satteriGithubPlugin } from './src/plugins/satteri-github';
 
 // https://astro.build/config
 export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Support Docs',
-			customCss: ['./src/utils/custom.css'],
-			social: {
-				github: 'https://github.com/withastro/support-docs',
-			},
+			customCss: ['./src/styles/custom.css'],
+			social: [
+				{ icon: 'discord', label: 'Discord', href: 'https://astro.build/chat' },
+				{
+					icon: 'github',
+					label: 'GitHub',
+					href: 'https://github.com/withastro/support-docs',
+				},
+			],
 			editLink: {
 				baseUrl: 'https://github.com/withastro/support-docs/edit/main/'
 			},
@@ -23,18 +29,18 @@ export default defineConfig({
 				},
 				{
 					label: 'Guides',
-					autogenerate: { directory: 'guides' }
+					items: [{ autogenerate: { directory: 'guides' } }]
 				},
 				{
 					label: 'Resources',
-					autogenerate: { directory: 'resources' }
+					items: [{ autogenerate: { directory: 'resources' } }]
 				}
 			],
 		}),
 	],
 	markdown: {
-		remarkPlugins: [
-			[remarkGithub, { repository: 'withastro/astro' }]
-		]
-	}
+		processor: satteri({
+			mdastPlugins: [satteriGithubPlugin()],
+		}),
+	},
 });
