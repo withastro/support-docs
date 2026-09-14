@@ -23,7 +23,7 @@ Create a poll with three options: Agree (👍), Abstain (😐), Disagree (👎) 
 Once someone has been nominated for the `@support-patrol` role, anyone can vote in the poll.
 If you do not know anything about the nominee, it is best to abstain from voting.
 
-If the nomination message receives at lesat **4 positive** reactions (👍) after 72 hours then it is considered a passing vote.
+If the nomination message receives at least **4 positive** reactions (👍) after 72 hours, it is considered a passing vote.
 Before assigning the `@support-patrol` role, make sure to delete the thread, as the nominee will be able to view the channel history.
 
 ## Inviting
@@ -54,4 +54,4 @@ Feel free to modify this template as you see fit!
 
 ## Welcoming
 
-When the nominee accepts the invite and gets the role, give them a warm welcome in the `#support-squad` channel and provide a link to this website for relevant information.
+When the nominee accepts the invite and gets the role, give them a warm welcome in the `#support-squad` channel and provide a link to this website for relevant information! 🎉

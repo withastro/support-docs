@@ -4,7 +4,7 @@ sidebar:
   label: Asking for Support
 ---
 
-Our maintainers, support patrol and wonderful fellow community members are happy to help you when you need help! Help *us*, help *you* with the following tips.
+Our maintainers, support patrol and wonderful fellow community members are happy to help you when you need help! Help *us* help *you* with the following tips.
 
 ## Before Asking for Help
 
@@ -22,7 +22,7 @@ Our maintainers, support patrol and wonderful fellow community members are happy
 ## Where **NOT** to ask
 
 - **Twitter/X/Bluesky**: Some of our community members are active on these social platforms, but we don't actively monitor for support questions.
-- **GitHub Issues**: Do not ask support questions in any repositories except our dedicated [community support repository][github-support]. Astro uses GitHub issues to track bugs, not support requests.
+- **GitHub Issues**: Please use our [dedicated community support repository][github-support] instead of the main Astro repository or the docs repository.
 
 ## Providing Context
 
